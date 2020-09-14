@@ -12,3 +12,6 @@ That "somewhere" should be somewhere visible, like in your rules channel.
 Here's an example of the Happy Vukmoji in Discord:
 
 ![An example of :vukkyhappy: in Discord](https://i.imgur.com/prj4E8T.png)
+
+### Are your "Vukmojis" just poorly drawn Fall Guys?
+Perhaps.
