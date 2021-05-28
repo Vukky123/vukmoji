@@ -1,5 +1,5 @@
 # vukmoji
-Vukkies are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][http://creativecommons.org/licenses/by-sa/4.0/].
+Vukkies are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
 ## FAQ
 
@@ -7,3 +7,5 @@ Vukkies are licensed under a [Creative Commons Attribution-ShareAlike 4.0 Intern
 Here's an example of the Happy Vukmoji in Discord:
 
 ![An example of :vukkyhappy: in Discord](https://i.imgur.com/prj4E8T.png)
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
